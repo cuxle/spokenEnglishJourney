@@ -24,9 +24,9 @@
    - Jupyter：交互式编程
 
 2. **下载学习资料（10分钟）**
-   - [ ] 下载MML Book PDF：https://mml-book.github.io/book/mml-book.pdf
-   - [ ] 订阅3Blue1Brown YouTube频道
-   - [ ] 准备笔记本（纸质或电子）
+   - [*] 下载MML Book PDF：https://mml-book.github.io/book/mml-book.pdf
+   - [*] 订阅3Blue1Brown YouTube频道
+   - [*] 准备笔记本（纸质或电子）
 
 3. **创建学习文件夹（5分钟）**
    ```bash
@@ -65,12 +65,12 @@
 ### 学习计划
 
 **1. 观看视频（20分钟）**
-- [ ] 3Blue1Brown - "Vectors, what even are they?"
+- [*] 3Blue1Brown - "Vectors, what even are they?"
   - 链接：https://www.youtube.com/watch?v=fNk_zzaMoSs
   - 重点：向量的物理学视角 vs 计算机科学视角
 
 **2. 阅读教材（30分钟）**
-- [ ] MML Book Chapter 2.1-2.2（向量定义和运算）
+- [*] MML Book Chapter 2.1-2.2（向量定义和运算）
 - 重点理解：
   - 向量 = 有方向和大小的量
   - 向量加法的几何意义（首尾相连）
@@ -139,9 +139,13 @@ plt.show()
 - Khan Academy - Vectors练习（3-5道题）
 - 或者手动计算：
   - v = [2, 3], w = [1, -1]，求 v + w, v - w, 3v
+  v + w = [2+1, 3-1] = [3, 2]
+  v - w = [2-1, 3+1] = [1, 4]
+  3v = [6, 9]
+
 
 **今日检查：**
-- [ ] 理解向量的几何意义
+- [*] 理解向量的几何意义
 - [ ] 能用NumPy创建向量
 - [ ] 能可视化向量
 - [ ] 保存了今天的代码
